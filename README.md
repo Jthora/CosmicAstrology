@@ -1,2 +1,2 @@
 # CosmicAstrology
-Astrology that accounts correctly for the Precession of the Equinox
+Astrology that accounts for the Precession of the Equinox
